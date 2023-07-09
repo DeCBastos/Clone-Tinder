@@ -15,7 +15,7 @@ Este projeto faz parte do meu portfólio, agradeço qualquer feedback sobre estr
 
 💻 **Funcionalidades**
 
-- Tela de interação do app do Tinder.
+- Tela de interação do app do Tinder em versão site.
 
 📚 **Tecnologias utilizadas:**
 
