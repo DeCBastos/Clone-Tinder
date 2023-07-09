@@ -15,14 +15,10 @@ Este projeto faz parte do meu portfólio, agradeço qualquer feedback sobre estr
 
 💻 **Funcionalidades**
 
-_ Tela de interação do app do Tinder.
+- Tela de interação do app do Tinder.
 
 📚 **Tecnologias utilizadas:**
 
-_ CSS;
-_ HTML;
-_ Javascript.
-
-<img src="[BadgeURLAqui](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-<img src="[BadgeURLAqui](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="[BadgeURLAqui](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)" />
+- CSS;
+- HTML;
+- Javascript.
