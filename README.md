@@ -1,5 +1,7 @@
 # Clone-Tinder
 
+**Tinder Clone**
+
 🤓 Projeto de um web app de clone do Tinder feito em ReactJS, utilizando a API do Tinder para obtenção e manipulação de dados.
 
 📝 **Índice:**
